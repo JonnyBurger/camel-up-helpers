@@ -1,0 +1,20 @@
+{
+  "name": "camel-up-helpers",
+  "version": "1.0.0",
+  "description": "Bot that creates a game. For Gruppe 5 @ Software-Praktikum 2015, UZH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "camel",
+    "up"
+  ],
+  "author": "Jonny Burger",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "randomstring": "^1.0.5",
+    "request-json": "^0.5.2"
+  }
+}
